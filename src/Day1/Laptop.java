@@ -1,4 +1,4 @@
-package Day1;
+package day1;
 
 public class Laptop {
     //States(Variables/ Constant)
@@ -6,6 +6,8 @@ public class Laptop {
     //generation
     //color
     //memory
+    //operatingSystem
+    //display
 
     //Behaviour (Functions / Methods )
     //start
