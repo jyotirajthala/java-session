@@ -1,4 +1,4 @@
-package day2;
+package day1;
 
 public class Laptop {
     //States(Variables/ Constant)
