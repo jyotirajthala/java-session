@@ -3,8 +3,10 @@ package day2;
 public class Post {
     //state
 
-    //image
-    //video
+    //postedBy
+    //userImage
+    //attachment
+    //isVideo
     //captions
     //tagPeople
     //locations
@@ -17,7 +19,7 @@ public class Post {
     //behaviour
     //chooseFilter
     //edit
-     //like
+    //like
     //comment
     //share
     //save
