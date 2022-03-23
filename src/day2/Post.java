@@ -5,8 +5,6 @@ public class Post {
 
     //image
     //video
-    //chooseFilter
-    //edit
     //captions
     //tagPeople
     //locations
@@ -17,7 +15,8 @@ public class Post {
 
 
     //behaviour
-
+    //chooseFilter
+    //edit
      //like
     //comment
     //share
