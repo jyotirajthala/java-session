@@ -1,6 +1,6 @@
 package day2;
 
-public class Post {
+public class InstaPost {
     //state
 
     //postedBy
