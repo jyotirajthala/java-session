@@ -4,16 +4,27 @@ public class InstaPost {
     //state
 
     //postedBy
+    String postedBy;
     //userImage
+    String userImage;
     //attachment
+    String attachment;
     //isVideo
+    boolean isVideo;
     //captions
+    String captions;
     //tagPeople
+    String tagPeople;
     //locations
+    String locations;
     //numberOfLike
+    int numberOfLike;
     //numberOfComment
+    int numberOfComment;
     //numberOfShare
+    int numberOfShare;
     //postTime
+    String postTime;
 
 
     //behaviour
