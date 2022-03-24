@@ -18,9 +18,9 @@ public class InstaPost {
     //locations
     String locations;
     //numberOfLike
-    int numberOfLike;
+    long numberOfLike;
     //numberOfComment
-    int numberOfComment;
+    long numberOfComment;
     //numberOfShare
     int numberOfShare;
     //postTime
