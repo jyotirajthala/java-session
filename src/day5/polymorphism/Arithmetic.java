@@ -21,10 +21,8 @@ public class Arithmetic {
 //        int i = g + h;
 //        System.out.println(i );
         addNumbers(g, h);
-
         float j = 2.5f;
         float k = 2.5f;
-
         addNumbers(j,k);
     }
 
