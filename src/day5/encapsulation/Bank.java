@@ -26,8 +26,7 @@ public class Bank {
         account2.setAccountBalance(2000);
 //        account1.socialSecurityNumber = "tsh441144";
         account2.setSocialSecurityNumber("tsh451144");
-
-
+        
 //        System.out.println(account1.getSocialSecurityNumber());
 
         account1.transferBalance(account1, account2, 100);

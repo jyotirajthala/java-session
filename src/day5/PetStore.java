@@ -2,7 +2,6 @@ package day5;
 
 public class PetStore {
     public static void main(String[] args) {
-
         Cat thor = new Cat();
         Cat rambo = new Cat();
 

@@ -9,11 +9,9 @@ public class Cat {
     public void sleep(){
         System.out.println("Sleeping");
     }
-
     public void play(){
         System.out.println("Playing");
     }
-
     public void feed(){
         System.out.println("Eating");
     }
