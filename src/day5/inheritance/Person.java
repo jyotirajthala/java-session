@@ -1,6 +1,7 @@
 package day5.inheritance;
 
 public class Person {
+
     private String name;
     private String age;
     private Gender gender;

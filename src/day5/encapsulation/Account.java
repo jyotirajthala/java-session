@@ -6,8 +6,7 @@ public class Account {
     private AccountType accountType;
     private double accountBalance;
     private String socialSecurityNumber;
-
-
+    
     public String getName() {
         return name;
     }

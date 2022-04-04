@@ -1,6 +1,7 @@
 package day5.inheritance;
 
 public class Teacher extends Person{
+
     private String subject;
 
     public String getSubject() {
