@@ -7,21 +7,21 @@ public class CalculationPercentage {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Enter your English marks");
-        int english = scanner.nextInt();
+        float english = scanner.nextFloat();
 
         System.out.println("Enter your Math marks");
-        int math = scanner.nextInt();
+        float math = scanner.nextFloat();
 
         System.out.println("Enter your Computer Marks");
-        int computer = scanner.nextInt();
+        float computer = scanner.nextFloat();
 
         System.out.println("Enter your Science Marks");
-        int science = scanner.nextInt();
+        float science = scanner.nextFloat();
 
         System.out.println("Enter your Nepali Marks");
-        int nepali = scanner.nextInt();
+        float nepali = scanner.nextFloat();
 
-        int total = english + math + computer + science + nepali;
+        float total = english + math + computer + science + nepali;
         float percentage = total/5;
 
         System.out.println("Total percentage is "+ percentage);
