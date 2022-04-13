@@ -1,27 +1,36 @@
-package day11;
+package day12;
 
+import java.io.Console;
 import java.util.Scanner;
 
-public class CalculationPercentage {
+
+public class StudentResult {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        Console cons = System.console();
+
         System.out.println("Enter your user name");
         String userName = scanner.nextLine();
 
+        /*
+
         System.out.println("Enter your Password");
-        String password = scanner.nextLine();
+        char[] passwordArray = cons.readPassword();
+
+       String password = String.valueOf(passwordArray);
 
         if(!password.equals("admin123")){
             System.out.println("You are not authenticated user. Please try again");
             System.exit(0);
         }
 
+         */
+
         System.out.println("Enter your first name");
         String firstName = scanner.nextLine();
 
         System.out.println("Enter your last name");
         String lastName = scanner.nextLine();
-
 
 
         System.out.println("Enter your English marks");
