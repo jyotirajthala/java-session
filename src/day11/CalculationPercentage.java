@@ -22,8 +22,6 @@ public class CalculationPercentage {
         System.out.println("Enter your last name");
         String lastName = scanner.nextLine();
 
-
-
         System.out.println("Enter your English marks");
         float english = scanner.nextFloat();
 
