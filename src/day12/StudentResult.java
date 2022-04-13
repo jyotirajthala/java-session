@@ -3,7 +3,6 @@ package day12;
 import java.io.Console;
 import java.util.Scanner;
 
-
 public class StudentResult {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -13,7 +12,6 @@ public class StudentResult {
         String userName = scanner.nextLine();
 
         /*
-
         System.out.println("Enter your Password");
         char[] passwordArray = cons.readPassword();
 
@@ -23,7 +21,6 @@ public class StudentResult {
             System.out.println("You are not authenticated user. Please try again");
             System.exit(0);
         }
-
          */
 
         System.out.println("Enter your first name");
