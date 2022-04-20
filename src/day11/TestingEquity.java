@@ -7,7 +7,6 @@ public class TestingEquity {
 //        boolean isEqual = a == b;
 //        System.out.println(isEqual);
 
-
         String greeting = "Hello";
 //        boolean isEqual1 = greeting == "Hello";
 //        System.out.println(isEqual1);
